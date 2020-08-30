@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html style = "background-color: #264d00; border: 2px solid black; font-size: 110%;">
+	<head>
+		<title>Chamber's Landscaping</title>
+		<link rel = "icon" href = "mowericon.png" type = "image/x=icon">
+	</head>
+
+<head>
+	<h1 style ="background-color: #4d0000;color: white; text-align: center; margin-top: -8px; margin-left: -8px; margin-right: -8px; width: auto;">Customer Satisfaction Is Our #1 Goal
+	</h1>
+</head>
+
+	<h1 style ="font-family: Impact, Charcoal, sans-serif; text-align: center; margin-top: -20px; color: #cccc00; text-shadow: #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;">
+COMMERCIAL & RESIDENTIAL MAINTENANCE PACKAGES
+	</h1>
+
+	<h1 style ="font-family: Impact, Charcoal, sans-serif; text-align: center; margin-top: -20px; color: white; text-shadow: #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;">FULL SERVICE SNOW REMOVAL SERVICE
+	</h1>
+
+	<h2 style ="font-family: Impact, Charcoal, sans-serif; text-align: center; margin-top: -20px; color: white; text-shadow: #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px; margin-bottom: 10px;">"PRE-TREATING" SERVICES WITH BRINE SOLUTION NOW AVAILABLE!
+	</h2>
+
+<table>
+	<td style ="text-align: center; text-shadow: #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px; padding-top: 20px; "><p style ="color: yellow;">
+		<img src ="lawnweb_house.jpg" style="height: 400px; width: 200;">
+		<h2>
+		<p>Chambers Landscaping & Lawn Care Inc.
+		</p>
+		</h2>
+		<table>
+			<td>
+			<img src="visa.png" style="height:50px;width:50px;">
+			<img src="mastercard.png" style="height:50px;width:50px;">
+		</td>
+		<td>
+			<h1>
+			<p style ="font-family: Arial; font-size: 200%; margin-top: 1px; margin-bottom: 1px; text-align: left;">328-1312
+			</p>
+			</h1>
+		</td>
+		<td>
+			<img src="discover.jpg" style="height:50px;width:50px;">
+			<img src="americanexpress.png" style="height:50px;width:50px;">
+		</td>
+		</table>
+	</td>
+
+	<td style ="width: 100%;">
+		<body style ="font-family: Verdana; color: white; text-align: center;">
+		<p>Lawn & Landscape Maitenance</p>
+		<p>Sod & Seeding - Mulch - Spring & Fall Removal</p>
+		<p>Topsoil & Stone - General Removal - Tree Work</p>
+		<p>Leaf Removal - Retaining Walls - Brick Walkways Removal</p>
+		<p>Herbicide - Pesticide - Pond Removal</p>
+		<p>Full Service Landscaping Company</p>
+		<p>Solve Your Grading & Drainage Problems</p>
+		<p>Retention Pond Removal</p>
+		<h3 style ="color: white; text-shadow: #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px; padding-top: 20px; ">
+			<p style ="color: yellow;">FREE ESTIMATES - LICENSED & INSURED</p>
+			<p>Quality Workmanship - Competitive Pricing</p>
+			<p>Owner On Every Job - All Work Guaranteed</p>
+			<table style ="vertical-align: center;">
+				<td>
+				<p style ="color:red; text-shadow: -2px 1px 2px white;">PLACEHOLDER WEBSITE URL</p>
+				<p style ="font-family: Arial;">41 Don Ave. New Castle, DE 19720</p>
+				</h3>
+				</td>
+				<td><img src="bbb_logo.jpg"></td>
+			</table>
+		</body>
+	</td>
+</table>
+</html>
